@@ -4,5 +4,4 @@ resource "aws_vpc" "java-vpc" {
 
   tags = {
     Name = "java-vpc"
-  }
 }
